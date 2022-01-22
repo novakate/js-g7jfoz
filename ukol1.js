@@ -1,3 +1,9 @@
+/*Založte proměnné pro jméno, vek, vahu v kg a a vysku v metrech - nastavte jim libovolnou hodnotu. 
+Spočtěte BMI Do konzole vypište větu ve formátu:
+"Jmenuji se Petra, je mi 34 let, vážím 65kg, měřím 1.67m a moje BMI je 23,2.".
+*/
+
+
 let jmeno = 'Katka';
 let vek = 26;
 let vaha = 55;
